@@ -1,0 +1,10 @@
+bin/
+.settings/
+.DS_Store
+
+src/.metadata/
+src/module-info.class
+src/module-info.java
+
+src/.classpath
+src/.project
